@@ -480,5 +480,3 @@ Este projeto de reprodutor de música é uma aplicação web simples que demonst
 - Integrar com serviços de streaming.
 
 ---
-
-Table of Contents
